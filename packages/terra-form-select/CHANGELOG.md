@@ -3,6 +3,27 @@ ChangeLog
 
 Unreleased
 ----------
+### Changed
+* Theme variable changes
+  * Added
+    * --terra-select-tags-padding-bottom
+    * --terra-select-tags-padding-left
+    * --terra-select-tags-padding-right
+    * --terra-select-tags-padding-top
+    * --terra-select-search-height
+    * --terra-select-tag-display-border-left
+    * --terra-select-tag-display-border-right
+    * --terra-select-tag-display-border-top
+    * --terra-select-tag-deselect-border-left
+    * --terra-select-tag-deselect-border-right
+    * --terra-select-tag-deselect-border-top
+    * --terra-select-tag-deselect-hover-border-left
+    * --terra-select-tag-deselect-hover-border-right
+    * --terra-select-tag-deselect-hover-border-top
+    * --terra-select-display-search-margin-bottom
+  * Renamed
+    * --terra-select-optgroup-font-size -> --terra-select-optgroup-label-font-size
+    * --terra-select-tag-deselect-hover-border-bottom-hover -> --terra-select-tag-deselect-hover-border-bottom
 
 4.11.1 - (July 20, 2018)
 ------------------
