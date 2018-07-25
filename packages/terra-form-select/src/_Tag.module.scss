@@ -43,7 +43,7 @@
 
     &:hover {
       background: var(--terra-select-tag-deselect-hover-background, #b9bbbc);
-      border-bottom: var(--terra-select-tag-deselect-hover-border-bottom, 0.14286rem solid #8f8f90);
+      border-bottom: var(--terra-select-tag-deselect-hover-border-bottom-hover, 0.14286rem solid #8f8f90);
       border-left: var(--terra-select-tag-deselect-hover-border-left, none);
       border-right: var(--terra-select-tag-deselect-hover-border-right, none);
       border-top: var(--terra-select-tag-deselect-hover-border-top, none);

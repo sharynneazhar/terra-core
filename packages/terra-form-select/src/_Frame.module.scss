@@ -177,7 +177,9 @@
   .search-input::placeholder,
   .placeholder {
     color: var(--terra-select-search-placeholder-color, #bcbfc0);
+    font-family: inherit;
     font-size: var(--terra-select-search-placeholder-font-size, 1.143rem);
+    font-style: var(--terra-select-search-placeholder-font-style, normal);
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
